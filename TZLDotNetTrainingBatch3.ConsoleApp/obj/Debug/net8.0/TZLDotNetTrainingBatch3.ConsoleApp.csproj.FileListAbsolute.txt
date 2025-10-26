@@ -1,0 +1,15 @@
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.exe
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.deps.json
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.runtimeconfig.json
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.dll
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.pdb
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.AssemblyInfoInputs.cache
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.AssemblyInfo.cs
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.dll
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\refint\TZLDotNetTrainingBatch3.ConsoleApp.dll
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.pdb
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.genruntimeconfig.cache
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\ref\TZLDotNetTrainingBatch3.ConsoleApp.dll
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp.sourcelink.json

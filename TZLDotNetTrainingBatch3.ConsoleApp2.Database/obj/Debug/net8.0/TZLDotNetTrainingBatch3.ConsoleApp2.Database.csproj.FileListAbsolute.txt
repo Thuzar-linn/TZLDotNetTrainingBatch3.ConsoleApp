@@ -1,0 +1,15 @@
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.deps.json
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.dll
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.pdb
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.AssemblyInfoInputs.cache
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.AssemblyInfo.cs
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.csproj.CoreCompileInputs.cache
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.sourcelink.json
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.dll
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\refint\TZLDotNetTrainingBatch3.ConsoleApp2.Database.dll
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.pdb
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\ref\TZLDotNetTrainingBatch3.ConsoleApp2.Database.dll
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\bin\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.runtimeconfig.json
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.csproj.AssemblyReference.cache
+D:\C#\TZLDotNetTrainingBatch3.ConsoleApp\TZLDotNetTrainingBatch3.ConsoleApp2.Database\obj\Debug\net8.0\TZLDotNetTrainingBatch3.ConsoleApp2.Database.genruntimeconfig.cache

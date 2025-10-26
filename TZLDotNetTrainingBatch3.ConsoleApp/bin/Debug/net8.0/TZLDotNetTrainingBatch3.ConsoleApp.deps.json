@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TZLDotNetTrainingBatch3.ConsoleApp/1.0.0": {
+        "runtime": {
+          "TZLDotNetTrainingBatch3.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TZLDotNetTrainingBatch3.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
